@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Eduarda, I’m a Civil Engineer.
-
+### Hi there 👋 
+###  My name is Eduarda and I’m a Civil Engineer.
 
 - 🔭 I worked for 3 years at an Engineering Consulting Company developing studies for Highway Infrastructure Projects.
 
@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools that I use:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
 <a href="https://www.rstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
