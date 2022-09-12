@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
 <a href="https://www.rstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
- <a href="https://powerbi.microsoft.com/"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" alt="powerbi" width="40" height="40"/> </a> 
+
   
   
 <h3 align="left">Connect with me:</h3>
