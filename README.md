@@ -1,9 +1,9 @@
 ### Hi there
-###  Hi, my name is Eduarda, and I am a data analyst with a bachelor's degree in civil engineering. 
+###  Hi, my name is Eduarda, and I'm a data analyst with a bachelor's degree in civil engineering. 
 
 - 🔭 I have three years of experience in the infrastructure industry, developing studies for Highway Infrastructure Projects.
 
-- 🌱 Currently, I am pursuing an MBA in Data Science and Analytics while simultaneously working on projects that involve applying data analysis and management to reach business purposes.
+- 🌱 Currently, I'm pursuing an MBA in Data Science and Analytics while simultaneously working on projects that involve applying data analysis and management to reach business purposes.
 
 <!--👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
