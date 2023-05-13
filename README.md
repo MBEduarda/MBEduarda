@@ -1,4 +1,3 @@
-### Hi there
 ###  Hi, my name is Eduarda, and I'm a data analyst with a bachelor's degree in civil engineering. 
 
 - 🔭 I have three years of experience in the infrastructure industry, developing studies for Highway Infrastructure Projects.
